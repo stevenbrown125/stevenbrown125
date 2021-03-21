@@ -2,14 +2,14 @@
 
 Developing Web Application has been my passion for years. I love building stuff to help others learn, build communities, or even just for fun!
 
-👨‍💻 Created my first website in 2008 
-🧰 My favorite programming language is Javascript
-💼 I'm currently looking for web development work
-🌱 I’m currently learning Typescript
-🏠 Living in Italy
-😄 My pronouns are he/him
-🐶 Dog person
-🎧 I love listening to Emancipator while coding
+- 👨‍💻 Created my first website in 2008 
+- 🧰 My favorite programming language is Javascript
+- 💼 I'm currently looking for web development work
+- 🌱 I’m currently learning Typescript
+- 🏠 Living in Italy
+- 😄 My pronouns are he/him
+- 🐶 Dog person
+- 🎧 I love listening to Emancipator while coding
 
 Tech stack
 I'm sure I forgot to add something 😆 , but here's a significant snapshot of what I'm using both at work and in my side projects to build amazing stuff 👇
