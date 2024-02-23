@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-Developing Web Application has been my passion for years. I love building stuff to help others learn, build communities, or even just for fun!
+Developing Web Applications has been my passion for years. I love building stuff to help others learn, build communities, or even just for fun!
 
 - 👨‍💻 Created my first website in 2008 
-- 🧰 My favorite programming language is Javascript
-- 💼 I'm currently looking for web development work
-- 🌱 I’m currently studying for the AWS Developer Certification
+- 🧰 My favorite programming language is Typescript
+- 💼 I'm currently work as a Systems Engineer for AIT Engineering
+- 🌱 I’m currently studying for the CompTIA Network+ Exam
 - 🏠 Living in Florida
-- 😄 My pronouns are he/him
 - 🐶 Dog person
 - 🎧 I love listening to Emancipator while coding
 
