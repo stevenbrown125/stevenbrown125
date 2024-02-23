@@ -4,7 +4,7 @@ Developing Web Applications has been my passion for years. I love building stuff
 
 - 👨‍💻 Created my first website in 2008 
 - 🧰 My favorite programming language is Typescript
-- 💼 I'm currently work as a Systems Engineer for AIT Engineering
+- 💼 I'm currently working as a Systems Engineer for AIT Engineering
 - 🌱 I’m currently studying for the CompTIA Network+ Exam
 - 🏠 Living in Florida
 - 🐶 Dog person
